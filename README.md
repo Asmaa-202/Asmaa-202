@@ -55,7 +55,8 @@
 - **Smart Garage System** — Arduino-based project using sensors for smart parking solutions.
 - **Single-Axis Solar Tracker** — Motor-controlled solar panel tracker with sensor-based optimization (Simulated in MATLAB).
 - **Circuit Solver** — C++ project that takes user resistance input and calculates the equivalent circuit.
-- **Inductor Traffic Light** — Logic design-based traffic light system using inductors.
+- **Traffic Light** — Logic design-based traffic light system using logic design fundamentals.
+- **Inductor** - Using elsctromagnetic and induction fundamentals.
 - **3-Variable Linear Equation Solver** — Python-based solver for solving systems of linear equations with 3 variables.
 - **IR Sensor & LED Control System** — ESP32-based project using an IR sensor to detect object presence and control an LED on a breadboard via an IoT MQTT panel.
 
