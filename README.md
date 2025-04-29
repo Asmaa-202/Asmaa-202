@@ -67,7 +67,7 @@
 - **Programming Languages:** Python, C++, MQTT, Arduino
 - **IoT & Embedded Systems:** MQTT, Sensor Integration, Microcontrollers
 - **Software Development:** Problem Solving, System Design, Testing & Debugging
-- **Tools & Technologies:** Git, Arduino, Linux
+- **Tools & Technologies:** Git, Arduino 
 - **Areas of Interest:** IoT Applications, Smart Systems, Robotics, Automation
 
 ---
